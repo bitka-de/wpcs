@@ -1,0 +1,18 @@
+[
+    {
+        "id": "008869c52f2f0943",
+        "email": "behrens.ka@icloud.com",
+        "username": "jaypiii",
+        "password": "$2y$12$WoZ0hpRoB7uenOtXu.SYDuwt8ESPQmB9Luk9I7qTH.P4qOKDwHVMi",
+        "role": "master",
+        "createdAt": 1759843157916
+    },
+    {
+        "id": "0e4f25209151b9f7",
+        "email": "behrens.ka2@icloud.com",
+        "username": "jp",
+        "password": "$2y$12$BvbVXCRYegTLRfBP5GMN5ODlqgeBGwBH5yepOumVWOBAMn9nnSxLC",
+        "role": "master",
+        "createdAt": 1759843422450
+    }
+]

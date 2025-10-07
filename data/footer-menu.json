@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Leistungen",
+    "url": "/leistungen"
+  },
+  {
+    "label": "Beratung",
+    "url": "/beratung"
+  },
+  {
+    "label": "Tools",
+    "url": "/tools"
+  },
+  {
+    "label": "Blog",
+    "url": "/blog"
+  }
+]

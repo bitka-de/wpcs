@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Deine Website ist kein Zufall: Warum Strategie der Anfang von allem ist",
+    "slug": "website-strategie-anfang",
+    "beschreibung": "Ohne klare Strategie wird selbst das schönste Design wirkungslos. Hier erfährst du, wie du die Basis richtig setzt.",
+    "bereich": "Strategie & Positionierung",
+    "tags": ["Strategie", "Ziele", "Positionierung"],
+    "datum": "2025-10-05",
+    "lesezeit": "6 Min"
+  },
+  {
+    "title": "Positionierung schärfen: Wie du online klarer wahrgenommen wirst",
+    "slug": "positionierung-online-klarheit",
+    "beschreibung": "Wer nicht klar kommuniziert, geht unter. Mit einer klaren Positionierung ziehst du die richtigen Menschen an.",
+    "bereich": "Strategie & Positionierung",
+    "tags": ["Positionierung", "Markenkern", "Alleinstellung"],
+    "datum": "2025-09-29",
+    "lesezeit": "7 Min"
+  },
+  {
+    "title": "Struktur schafft Umsatz: So baust du deine Website logisch auf",
+    "slug": "struktur-schafft-umsatz",
+    "beschreibung": "Gute Struktur ist kein Zufall, sondern Strategie. So führst du Besucher intuitiv zum Ziel.",
+    "bereich": "Struktur & Planung",
+    "tags": ["Seitenarchitektur", "Navigation", "Blueprint"],
+    "datum": "2025-10-02",
+    "lesezeit": "5 Min"
+  },
+  {
+    "title": "Diese 5 Conversion-Fallen kosten dich täglich Kunden",
+    "slug": "conversion-fallen-vermeiden",
+    "beschreibung": "Viele Websites haben dieselben Fehler, die still und leise Verkäufe verhindern. Diese solltest du kennen.",
+    "bereich": "Conversion & Nutzererlebnis",
+    "tags": ["Usability", "Conversion-Optimierung", "Vertrauen"],
+    "datum": "2025-09-26",
+    "lesezeit": "7 Min"
+  },
+  {
+    "title": "Mehr Sichtbarkeit mit Struktur: SEO einfach erklärt",
+    "slug": "seo-einfach-erklaert",
+    "beschreibung": "SEO muss kein Hexenwerk sein. Mit klarer Struktur und den richtigen Basics wirst du sichtbar.",
+    "bereich": "SEO & Sichtbarkeit",
+    "tags": ["SEO-Grundlagen", "Onpage-Optimierung", "Keyword-Recherche"],
+    "datum": "2025-09-24",
+    "lesezeit": "6 Min"
+  },
+  {
+    "title": "Technik verständlich: Was deine Website wirklich schnell macht",
+    "slug": "technik-verstaendlich-speed",
+    "beschreibung": "Ladezeit ist Umsatzzeit. Hier erfährst du, welche technischen Stellschrauben wirklich zählen – ganz ohne Nerd-Gebrabbel.",
+    "bereich": "Technik verständlich",
+    "tags": ["PageSpeed", "Performance", "CMS"],
+    "datum": "2025-09-21",
+    "lesezeit": "6 Min"
+  },
+  {
+    "title": "Texte, die wirken: So sprichst du die Sprache deiner Kunden",
+    "slug": "texte-die-wirken",
+    "beschreibung": "Texte sind oft das Zünglein an der Waage. Mit klarer Sprache verwandelst du Leser in Interessenten.",
+    "bereich": "Content & Kommunikation",
+    "tags": ["Storytelling", "Textqualität", "Tonality"],
+    "datum": "2025-10-04",
+    "lesezeit": "8 Min"
+  },
+  {
+    "title": "Content als Vertrauensbooster: Wie Worte Nähe schaffen",
+    "slug": "content-vertrauen-booster",
+    "beschreibung": "Vertrauen entsteht nicht durch Logos, sondern durch Kommunikation. So gelingt das online.",
+    "bereich": "Content & Kommunikation",
+    "tags": ["Vertrauen", "Interaktion", "Sprache"],
+    "datum": "2025-09-28",
+    "lesezeit": "7 Min"
+  },
+  {
+    "title": "Markenwirkung online: Design mit Haltung statt Deko",
+    "slug": "markenwirkung-design-haltung",
+    "beschreibung": "Starkes Design transportiert Werte. Hier lernst du, wie du deine Marke sichtbar und spürbar machst.",
+    "bereich": "Design & Markenwirkung",
+    "tags": ["Markenidentität", "Visuelles Konzept", "Wiedererkennung"],
+    "datum": "2025-09-23",
+    "lesezeit": "7 Min"
+  },
+  {
+    "title": "3 inspirierende Website-Beispiele für mehr Ideen",
+    "slug": "inspirierende-website-ideen",
+    "beschreibung": "Echte Projekte, echte Learnings. Diese Websites zeigen, wie Strategie, Content und Design zusammenspielen.",
+    "bereich": "Praxis & Inspiration",
+    "tags": ["Beispiele", "Best Practices", "Impulse"],
+    "datum": "2025-09-20",
+    "lesezeit": "5 Min"
+  },
+  {
+    "title": "Kontinuierliche Optimierung: Der unterschätzte Wachstumstreiber",
+    "slug": "kontinuierliche-optimierung",
+    "beschreibung": "Nach dem Launch ist vor dem Wachstum. Warum kontinuierliche Verbesserung den Unterschied macht.",
+    "bereich": "Optimierung & Wachstum",
+    "tags": ["Testing", "Analyse", "Weiterentwicklung"],
+    "datum": "2025-09-18",
+    "lesezeit": "6 Min"
+  },
+  {
+    "title": "Datenschutz & Co: Was du wirklich brauchst (und was nicht)",
+    "slug": "datenschutz-was-du-brauchst",
+    "beschreibung": "Viele Website-Betreiber sind bei rechtlichen Themen verunsichert. Hier bekommst du Klarheit ohne Juristendeutsch.",
+    "bereich": "Allgemeines",
+    "tags": ["DSGVO", "Rechtliches", "Barrierefreiheit"],
+    "datum": "2025-09-14",
+    "lesezeit": "7 Min"
+  }
+]

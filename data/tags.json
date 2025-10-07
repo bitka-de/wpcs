@@ -1,0 +1,100 @@
+{
+  "Strategie & Positionierung": {
+    "slug": "strategie-positionierung",
+    "tags": [
+      { "name": "Ziele", "slug": "ziele" },
+      { "name": "Zielgruppe", "slug": "zielgruppe" },
+      { "name": "Markenkern", "slug": "markenkern" },
+      { "name": "Wettbewerb", "slug": "wettbewerb" },
+      { "name": "Alleinstellung", "slug": "alleinstellung" }
+    ]
+  },
+  "Struktur & Planung": {
+    "slug": "struktur-planung",
+    "tags": [
+      { "name": "Seitenarchitektur", "slug": "seitenarchitektur" },
+      { "name": "Nutzerführung", "slug": "nutzerfuehrung" },
+      { "name": "Inhaltsstruktur", "slug": "inhaltsstruktur" },
+      { "name": "Navigation", "slug": "navigation" },
+      { "name": "Blueprint", "slug": "blueprint" }
+    ]
+  },
+  "Conversion & Nutzererlebnis": {
+    "slug": "conversion-nutzererlebnis",
+    "tags": [
+      { "name": "Call-to-Action", "slug": "call-to-action" },
+      { "name": "Vertrauen", "slug": "vertrauen" },
+      { "name": "Usability", "slug": "usability" },
+      { "name": "Psychologie", "slug": "psychologie" },
+      { "name": "Conversion-Optimierung", "slug": "conversion-optimierung" }
+    ]
+  },
+  "SEO & Sichtbarkeit": {
+    "slug": "seo-sichtbarkeit",
+    "tags": [
+      { "name": "Keyword-Recherche", "slug": "keyword-recherche" },
+      { "name": "Onpage-Optimierung", "slug": "onpage-optimierung" },
+      { "name": "Strukturierte Daten", "slug": "strukturierte-daten" },
+      { "name": "Backlinks", "slug": "backlinks" },
+      { "name": "Performance", "slug": "performance" }
+    ]
+  },
+  "Technik verständlich": {
+    "slug": "technik-verstaendlich",
+    "tags": [
+      { "name": "CMS", "slug": "cms" },
+      { "name": "PageSpeed", "slug": "pagespeed" },
+      { "name": "Sicherheit", "slug": "sicherheit" },
+      { "name": "Responsivität", "slug": "responsivitaet" },
+      { "name": "Pflege", "slug": "pflege" }
+    ]
+  },
+  "Content & Kommunikation": {
+    "slug": "content-kommunikation",
+    "tags": [
+      { "name": "Textqualität", "slug": "textqualitaet" },
+      { "name": "Storytelling", "slug": "storytelling" },
+      { "name": "Bildsprache", "slug": "bildsprache" },
+      { "name": "Tonality", "slug": "tonality" },
+      { "name": "Interaktion", "slug": "interaktion" }
+    ]
+  },
+  "Design & Markenwirkung": {
+    "slug": "design-markenwirkung",
+    "tags": [
+      { "name": "Visuelles Konzept", "slug": "visuelles-konzept" },
+      { "name": "Typografie", "slug": "typografie" },
+      { "name": "Farbsystem", "slug": "farbsystem" },
+      { "name": "Markenidentität", "slug": "markenidentitaet" },
+      { "name": "Wiedererkennung", "slug": "wiedererkennung" }
+    ]
+  },
+  "Praxis & Inspiration": {
+    "slug": "praxis-inspiration",
+    "tags": [
+      { "name": "Best Practices", "slug": "best-practices" },
+      { "name": "Beispiele", "slug": "beispiele" },
+      { "name": "Impulse", "slug": "impulse" },
+      { "name": "Trends", "slug": "trends" }
+    ]
+  },
+  "Optimierung & Wachstum": {
+    "slug": "optimierung-wachstum",
+    "tags": [
+      { "name": "Analyse", "slug": "analyse" },
+      { "name": "Testing", "slug": "testing" },
+      { "name": "Skalierung", "slug": "skalierung" },
+      { "name": "Weiterentwicklung", "slug": "weiterentwicklung" },
+      { "name": "KPIs", "slug": "kpis" }
+    ]
+  },
+  "Allgemeines": {
+    "slug": "allgemeines",
+    "tags": [
+      { "name": "Rechtliches", "slug": "rechtliches" },
+      { "name": "DSGVO", "slug": "dsgvo" },
+      { "name": "Barrierefreiheit", "slug": "barrierefreiheit" },
+      { "name": "Wartung", "slug": "wartung" }
+    ]
+  }
+}
